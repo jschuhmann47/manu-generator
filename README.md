@@ -1,8 +1,7 @@
 # Manu Generator
 
 # Acerca de
-Este script genera una foto con el nombre introducido, en base al meme:
-![manu](https://raw.githubusercontent.com/jschuhmann47/manu-generator/main/original_manu.webp "manu")
+Este script genera una foto con el nombre introducido, en base al meme
 
 # Uso
 - Clonarse el repo
