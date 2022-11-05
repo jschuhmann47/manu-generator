@@ -6,7 +6,7 @@ def main():
     args = sys.argv[1:]
     if len(args) != 1:
         print("Error en la cantidad de argumentos")
-        print("Ejemplo de uso: manu.py manu")
+        print("Ejemplo de uso: python manu.py manu")
         return
     webbrowser.open("https://www.memegenerator.es/generator.php?id=45&texto1=" + args[0] + "+sos+un&texto2=hijo+de+remil+f&private=1")
 
